@@ -1,186 +1,195 @@
 <div align="center">
 
-# Hi 👋, I'm Ramesh Budha
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=190&section=header&text=Ramesh%20Budha&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" alt="Ramesh Budha header"/>
 
-### Aspiring Full-Stack Web Developer • BICTE Student • Building Practical Web Applications
+<a href="https://github.com/rameshbudha253"><img src="https://img.shields.io/badge/GitHub-rameshbudha253-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/rameshbudha253?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<img src="https://img.shields.io/badge/Focus-Full--Stack-06B6D4?style=for-the-badge" alt="Full Stack"/>
 
-<p>
-  <a href="https://github.com/rameshbudha253">
-    <img src="https://img.shields.io/badge/GitHub-rameshbudha253-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-0A66C2?style=for-the-badge" alt="Full-Stack Development"/>
-  <img src="https://img.shields.io/badge/Location-Nepal-DC143C?style=for-the-badge" alt="Nepal"/>
-</p>
+<br/><br/>
+
+**Building practical web applications • Learning by building • Growing every day**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hello, I'm Ramesh
 
-I'm **Ramesh Budha**, a **BICTE student in Nepal** learning full-stack web development by building practical projects and improving my programming fundamentals.
+I'm a **BICTE student from Nepal** and an aspiring **Full-Stack Web Developer** focused on turning ideas into useful, working applications.
 
-I enjoy turning ideas into working web applications and exploring how frontend interfaces, backend logic, and databases work together.
+My development journey is centered around **JavaScript, Node.js, Express.js, MySQL, HTML, and CSS**, while I continue strengthening my programming fundamentals, problem-solving skills, and understanding of how real-world software is built.
 
-- 🎓 Studying **BICTE**
-- 💻 Focused on **Full-Stack Web Development**
-- 🌱 Currently strengthening **JavaScript, Node.js, Express.js, and MySQL**
-- 🧩 Building projects to improve real-world development skills
-- 📚 Learning **REST APIs, authentication, databases, Git/GitHub, and DSA**
-- 🎯 Long-term goal: grow into a strong **Full-Stack Developer**
-- 🇳🇵 Based in **Nepal**
+I don't want GitHub to be just a collection of code. I use it to **learn, build, document, experiment, and improve**.
 
 ---
 
-## 🚀 What I'm Currently Building
+## 🧭 What I Do
 
-I'm focusing on practical development rather than only following tutorials.
-
-- 🌐 Interactive web applications with **HTML, CSS & JavaScript**
-- 🛒 E-commerce and application interfaces
-- 🗄️ Database-oriented applications and CRUD concepts
-- 🟢 Backend development with **Node.js & Express.js**
-- 🔌 Learning **REST API** design
-- 🧠 Improving JavaScript fundamentals and problem solving
-- 🐍 Exploring Python projects alongside web development
-- 🔧 Improving my Git and GitHub workflow
+- 💻 Build practical web applications and interactive interfaces
+- 🌐 Develop with **HTML, CSS, and JavaScript**
+- ⚙️ Explore backend development with **Node.js & Express.js**
+- 🗄️ Work with **MySQL** and database-driven application concepts
+- 🧠 Strengthen programming fundamentals and problem solving
+- 🐍 Explore Python through small practical projects
+- 🔧 Practice Git/GitHub and better project documentation
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
+
+<div align="center">
 
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
 
 ### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Node.js Express MySQL"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Node.js Express MySQL"/>
-</p>
+### Programming & Development Tools
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" alt="Python C++ Git GitHub VS Code"/>
 
-### Programming & Tools
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode" alt="Python C++ Git GitHub VS Code"/>
-</p>
+### 🌱 Currently Exploring
 
-### Exploring
-
-`REST APIs` • `Authentication` • `Data Structures & Algorithms` • `Clean Code` • `Software Architecture`
+`REST APIs` · `Authentication` · `CRUD Applications` · `Data Structures & Algorithms` · `Clean Code` · `Software Architecture`
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Work
 
-Here are some of the projects currently representing my learning and development journey.
+A selection of projects from my current learning and development journey.
 
-### 🌌 [Solar System](https://github.com/rameshbudha253/solar_system)
+<table>
+<tr>
+<td width="50%">
 
-An interactive web page created with **HTML, CSS, and JavaScript**, focused on building a visual and interactive frontend experience.
+### 🌌 Solar System
+Interactive web experience built with **HTML, CSS, and JavaScript**.
 
-**Tech:** HTML • CSS • JavaScript
+**Focus:** Frontend development & interaction
 
----
+<a href="https://github.com/rameshbudha253/solar_system">View Repository →</a>
 
-### 🛒 [E-Commerce](https://github.com/rameshbudha253/E-commers)
+</td>
+<td width="50%">
 
-An early e-commerce web project created while learning how to structure and build a practical shopping interface.
+### 🛒 E-Commerce
+An early e-commerce web project built while learning practical web application development.
 
-**Tech:** Web Development
+**Focus:** Web UI & application structure
 
----
+<a href="https://github.com/rameshbudha253/E-commers">View Repository →</a>
 
-### 🏦 [Nepal Banks SWIFT Code Website](https://github.com/rameshbudha253/Nepal-Banks-SWIFT-Code-web-site)
+</td>
+</tr>
 
-A web project designed to help users find information about Nepalese banks and branch SWIFT codes.
+<tr>
+<td width="50%">
 
-**Tech:** JavaScript • HTML • CSS
+### 🏦 Nepal Banks — SWIFT Code
+A web project focused on helping users find Nepalese bank and branch SWIFT-code information.
 
----
+**Focus:** Information-oriented web development
 
-### 🎨 [My Portfolio](https://github.com/rameshbudha253/My_portfolio)
+<a href="https://github.com/rameshbudha253/Nepal-Banks-SWIFT-Code-web-site">View Repository →</a>
 
-A personal portfolio project created to present my developer identity, skills, and projects.
+</td>
+<td width="50%">
 
-**Tech:** HTML
+### 🎮 Hangman Game
+Browser-based word guessing game created to practice JavaScript logic and frontend interaction.
 
----
+**Focus:** JavaScript & game logic
 
-### 🎙️ [Python Voice Assistant — Happy](https://github.com/rameshbudha253/voice_assistant)
+<a href="https://github.com/rameshbudha253/Hangman_game">View Repository →</a>
 
-A beginner Python voice assistant that listens to voice commands and responds using text-to-speech.
+</td>
+</tr>
 
-**Tech:** Python • SpeechRecognition • gTTS
+<tr>
+<td width="50%">
 
----
+### 🎙️ Happy — Python Voice Assistant
+A beginner Python voice assistant that accepts voice commands and responds using text-to-speech.
 
-### 🗣️ [Text to Speech](https://github.com/rameshbudha253/text_to_speech)
+**Focus:** Python & voice interaction
 
-A Python project exploring text-to-speech functionality and basic voice generation.
+<a href="https://github.com/rameshbudha253/voice_assistant">View Repository →</a>
 
-**Tech:** Python • gTTS • playsound
+</td>
+<td width="50%">
 
----
+### 🗣️ Text to Speech
+A Python project exploring text-to-speech functionality using external libraries.
 
-### 🎮 [Hangman Game](https://github.com/rameshbudha253/Hangman_game)
+**Focus:** Python & speech generation
 
-A browser-based word guessing game built to practice frontend structure, styling, and JavaScript game logic.
+<a href="https://github.com/rameshbudha253/text_to_speech">View Repository →</a>
 
-**Tech:** HTML • CSS • JavaScript
+</td>
+</tr>
+</table>
+
+> **More projects:** [Explore all repositories →](https://github.com/rameshbudha253?tab=repositories)
 
 ---
 
 ## 📚 Currently Learning
 
-- JavaScript fundamentals and modern JavaScript
-- Node.js and Express.js
-- MySQL and database design
-- CRUD application development
-- REST API concepts
-- Authentication and authorization fundamentals
-- Data Structures & Algorithms
-- Git and GitHub workflows
-- Clean code and project documentation
-- Building more complete full-stack applications
+I'm continuously improving my foundation and moving toward more complete full-stack development.
+
+- **JavaScript** — fundamentals, modern syntax, asynchronous programming
+- **Node.js & Express.js** — backend development and routing
+- **MySQL** — queries, database design, and CRUD concepts
+- **REST APIs** — API structure and integration
+- **Authentication** — understanding secure application flows
+- **DSA** — data structures and problem solving
+- **Git & GitHub** — version control and collaborative workflows
+- **Clean Code** — readable, maintainable project structure
 
 ---
 
-## 🎯 Development Goals
+## 🎯 2026 Development Direction
 
-- [ ] Build and deploy more complete full-stack applications
-- [ ] Strengthen JavaScript fundamentals
-- [ ] Build stronger backend skills with Node.js and Express.js
-- [ ] Improve MySQL and database design skills
-- [ ] Build and consume REST APIs
-- [ ] Improve DSA and problem-solving ability
-- [ ] Write clear and professional project documentation
-- [ ] Contribute to open-source projects
-- [ ] Continue growing toward a professional Full-Stack Developer role
+- Build more complete full-stack applications
+- Strengthen JavaScript and backend fundamentals
+- Improve database design and SQL skills
+- Build and consume REST APIs
+- Practice DSA and problem solving consistently
+- Improve documentation and project presentation
+- Deploy practical applications
+- Explore open-source contribution
+- Continue preparing for professional software development opportunities
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rameshbudha253&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Ramesh's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rameshbudha253&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ramesh's GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshbudha253&layout=compact&theme=github_dark&hide_border=true" alt="Ramesh's Top Languages"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameshbudha253&layout=compact&theme=github_dark&hide_border=true" alt="Ramesh's most used languages"/>
 
 </div>
 
 ---
 
-## 🧭 My Development Journey
+## 💡 How I Learn
 
-> **Learn → Build → Debug → Improve → Repeat**
+<div align="center">
 
-I'm using GitHub as a place to document my learning, experiment with technologies, build practical projects, and gradually improve the quality of my code.
+**Learn → Build → Break → Debug → Understand → Improve**
 
-Every repository represents part of that journey.
+</div>
+
+I believe practical development comes from building things, encountering problems, understanding why they happen, and improving the solution.
+
+GitHub is where I document that process.
 
 ---
 
@@ -188,9 +197,18 @@ Every repository represents part of that journey.
 
 <div align="center">
 
-**Interested in web development, learning together, or building something useful?**
+If you're interested in **web development, technology, learning, or building useful projects**, feel free to connect.
 
-[![GitHub](https://img.shields.io/badge/GitHub-rameshbudha253-181717?style=for-the-badge&logo=github)](https://github.com/rameshbudha253)
+<br/>
+
+<a href="https://github.com/rameshbudha253">
+<img src="https://img.shields.io/badge/GitHub-rameshbudha253-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<!-- Add your professional links when ready:
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+-->
 
 </div>
 
@@ -198,6 +216,8 @@ Every repository represents part of that journey.
 
 <div align="center">
 
-### 🚀 Building my skills, one project at a time.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:0F172A&height=100&section=footer" alt="Footer"/>
+
+**Building my skills, one meaningful project at a time.**
 
 </div>
